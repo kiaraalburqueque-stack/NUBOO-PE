@@ -1,0 +1,6 @@
+{
+  "name": "NUBO-PE | Calidad del Aire y Ventilación Bioclimática",
+  "description": "Monitor inteligente de calidad del aire interior, ventilación bioclimática guiada y sincronización con hardware NUBO-PE Pebble.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
